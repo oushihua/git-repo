@@ -1,2 +1,2 @@
 write 1
-write master
+write master dev
